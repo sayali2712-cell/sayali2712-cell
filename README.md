@@ -16,4 +16,4 @@
 - 🌱 Exploring full-stack & modern web development  
 
 ### 📫 Contact
-- Email: **sp3417720@gmail.com** *(change if needed)*
+- Email: **sp3417720@gmail.com** 
